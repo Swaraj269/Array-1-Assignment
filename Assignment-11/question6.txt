@@ -1,0 +1,22 @@
+6. Predict the output.
+    int main()
+    {
+        int sub[50], i ;
+        for ( i = 0 ; i <= 48 ; i++ ) ;
+        {
+            sub[i] = i ;
+            cout<<sub[i]<<endl ;
+        }
+        return 0;
+    }
+    
+Answer: 1
+        2
+        3
+        4
+        5
+        6
+        7
+        8
+        9
+        till 48
